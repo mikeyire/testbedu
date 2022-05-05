@@ -1,4 +1,3 @@
-# testbedu
 #testbedu >> README.mc
 
 
